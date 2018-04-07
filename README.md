@@ -6,6 +6,8 @@ A base image for Java media applications.
 
 Contains the JRE and media tools such as ffmpeg.
 
+## Java 8
+`docker-java-media:jre8-slim`
 
 ## Java 9
 `docker-java-media:jre9-slim`
