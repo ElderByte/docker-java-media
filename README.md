@@ -15,6 +15,8 @@ Contains the JRE and media tools such as ffmpeg.
 ## Java 10
 `docker-java-media:jre10-slim`
 
+## Java 11
+`docker-java-media:jre11-slim`
 
 
 
